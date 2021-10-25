@@ -1,6 +1,7 @@
 from typing import Sequence
 import pygame
 #引用外部文件
+# 测试1
 from game_hud import *
 from game_items import *
 from game_music import *
